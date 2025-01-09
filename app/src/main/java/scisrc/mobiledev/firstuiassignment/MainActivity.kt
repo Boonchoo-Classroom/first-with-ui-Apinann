@@ -25,7 +25,7 @@ class MainActivity : AppCompatActivity() {
 
         // bindButton
         bindButton()
-
+        //test
         // add listener to button
         addListener()
     }
